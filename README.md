@@ -1,0 +1,2 @@
+# softwareManager
+courseWork in SQM
